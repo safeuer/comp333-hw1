@@ -122,3 +122,14 @@
 .form-entry {
     margin: 10px;
 }
+
+#signup-box {
+    text-align: center;
+    font-size: 30px;
+    color: #ffa31a
+}
+
+#signup-box iframe {
+    width:50%;
+    height:300px;
+}
